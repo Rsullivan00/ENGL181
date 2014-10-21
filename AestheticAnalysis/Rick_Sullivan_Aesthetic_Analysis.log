@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.1.13)  14 OCT 2014 09:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.1.13)  20 OCT 2014 21:14
 entering extended mode
 **C:/Users/rick/Documents/Homework/ENGL*181/AestheticAnalysis/Rick_Sullivan_Aes
 thetic_Analysis.tex
@@ -159,44 +159,47 @@ LaTeX Font Info:    ... okay on input line 21.
 <buttons.png, id=1, 390.258pt x 38.84512pt>
 File: buttons.png Graphic file (type png)
  <use buttons.png>
-Package pdftex.def Info: buttons.png used on input line 45.
+Package pdftex.def Info: buttons.png used on input line 47.
 (pdftex.def)             Requested size: 390.25703pt x 38.845pt.
 
 <grid.png, id=2, 686.26387pt x 127.07475pt>
 File: grid.png Graphic file (type png)
  <use grid.png>
-Package pdftex.def Info: grid.png used on input line 51.
+Package pdftex.def Info: grid.png used on input line 54.
 (pdftex.def)             Requested size: 469.75502pt x 86.98557pt.
 
 <buttonCode.png, id=3, 517.63388pt x 121.95563pt>
 File: buttonCode.png Graphic file (type png)
  <use buttonCode.png>
-Package pdftex.def Info: buttonCode.png used on input line 57.
+Package pdftex.def Info: buttonCode.png used on input line 60.
 (pdftex.def)             Requested size: 517.63261pt x 121.9553pt.
 
-Overfull \hbox (47.8776pt too wide) in paragraph at lines 57--58
+Overfull \hbox (47.8776pt too wide) in paragraph at lines 60--61
  [][] 
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [1
 
-{C:/Users/rick/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <C:/Users
-/rick/Documents/Homework/ENGL 181/AestheticAnalysis/buttons.png> <C:/Users/rick
-/Documents/Homework/ENGL 181/AestheticAnalysis/grid.png> <C:/Users/rick/Documen
+{C:/Users/rick/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/ric
+k/Documents/Homework/ENGL 181/AestheticAnalysis/buttons.png> <C:/Users/rick/Doc
+uments/Homework/ENGL 181/AestheticAnalysis/grid.png>] [2 <C:/Users/rick/Documen
 ts/Homework/ENGL 181/AestheticAnalysis/buttonCode.png>]
 ("C:\Users\rick\Documents\Homework\ENGL 181\AestheticAnalysis\Rick_Sullivan_Aes
 thetic_Analysis.aux") ) 
 Here is how much of TeX's memory you used:
  1616 strings out of 493921
  22520 string characters out of 3147285
- 80576 words of memory out of 3000000
+ 81576 words of memory out of 3000000
  4942 multiletter control sequences out of 15000+200000
  4236 words of font info for 16 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,5n,32p,482b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,32p,511b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmr12.pfb>
-Output written on Rick_Sullivan_Aesthetic_Analysis.pdf (2 pages, 95763 bytes).
+Output written on Rick_Sullivan_Aesthetic_Analysis.pdf (2 pages, 96960 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
